@@ -2,6 +2,7 @@ MySQL S3 Backup Utility
 =============
 
 Simply utility developed in Python to backup MySQL databases and log and archive of backups on Amazon S3.
+Based on the work of psugand in https://github.com/psugand/MySQL-S3-Backup.
 
 Requirements
 --------------
